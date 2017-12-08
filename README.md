@@ -25,7 +25,7 @@ When
 | Speaker | Subject | Speakerdeck | Slides | Playground |
 |---|---|:---:|:---:|:---:|
 | Jeroen Willemsen  | **To pin or not to pin**  | [slides](https://speakerdeck.com/swiftugnl/jeroen-willemsen-to-pin-or-not-to-pin) | [slides](./0x3/ssl-pinning/0x3_ssl-pinning.pdf) |
-| Pim Stolk | **Jailbreaking and why you should care** |[slides](https://speakerdeck.com/swiftugnl/pim-stolk-jailbreak-and-crypto-and-why-you-should-care) | [slides](./0x3/jailbreaking/0x3_jailbreaking.pdf) |
+| Pim Stolk | **Jailbreaking and why you should care** ([How-to PDF](./0x3/jailbreaking/0x3_howto_jailbreaking.pdf)) |[slides](https://speakerdeck.com/swiftugnl/pim-stolk-jailbreak-and-crypto-and-why-you-should-care) | [slides](./0x3/jailbreaking/0x3_jailbreaking.pdf) |
 | Oleksii Dykan | **Secure Coding Guide** | [slides](https://speakerdeck.com/swiftugnl/oleksii-dykan-secure-coding-guidlines) | [slides](./0x3/secure-coding-guide/0x3_ssl-pinning.pdf) |  |
 
 
