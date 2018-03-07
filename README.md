@@ -29,3 +29,18 @@ When
 | Oleksii Dykan | **Secure Coding Guide** | [slides](https://speakerdeck.com/swiftugnl/oleksii-dykan-secure-coding-guidlines) | [slides](./0x3/secure-coding-guide/0x3_ssl-pinning.pdf) |  |
 
 
+### Version 0x4: Serverside Swift
+
+| Speaker | Subject | Speakerdeck | Slides | Playground |
+|---|---|:---:|:---:|:---:|
+| Alex Tran Qui  | **To pin or not to pin**  | [slides](https://speakerdeck.com/swiftugnl/alex-tan-qui-blockchains-and-serverside-swift) | [slides](./0x4/blockchain/blockchains-serverside.pdf) |
+| Pim Stolk | **Using IBM's Kitura** | |  |
+| Joannis Orlandos | **Vapor 3** | [slides](https://speakerdeck.com/swiftugnl/joannis-orleandos-vapor-3) | [slides](./0x4/vapor/vapor3.pdf) |  |
+
+
+### Version 0x5: Workshop Vapor 3
+
+| Speaker | Subject | Speakerdeck | Slides | Playground |
+|---|---|:---:|:---:|:---:|
+| Joannis Orlandos | **Getting started with Vapor** |  | [slides](./0x5/workshop_vapor3.pdf) |  |
+
